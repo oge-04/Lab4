@@ -49,5 +49,15 @@ function q3 () {
 
 
 function q4 () {
+    let q4InputString = document.getElementById("q4InputString").value;
+    let q4InputChar = document.getElementById("q4InputChar").value;
+    let q4InputNew = document.getElementById("q4InputNew").value;
+
+    for ( let length = q4InputString.length - 1; length >=0; length -- ) {
+
+
+
+
+    }
     
 }
